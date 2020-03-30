@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a61db2f-347b-4ff9-9031-a80b004249ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Django-web/venv/lib/python3.8/site-packages/django/conf/locale/zh_Hans/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/Django-web/venv/lib/python3.8/site-packages/django/conf/locale/zh_Hans/LC_MESSAGES/django.po" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Django-web/venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html" beforeDir="false" afterPath="$PROJECT_DIR$/Django-web/venv/lib/python3.8/site-packages/django/views/templates/default_urlconf.html" afterDir="false" />
     </list>
@@ -48,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585563129830</updated>
       <workItem from="1585563131094" duration="1365000" />
-      <workItem from="1585565529118" duration="604000" />
+      <workItem from="1585565529118" duration="746000" />
     </task>
     <servers />
   </component>
