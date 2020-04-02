@@ -12,7 +12,7 @@ README Virtual env
 -  virtualenv venv /* create virtual set name...
 -  ls /*search venv
 -  cd venv 
--  >>>exit /* exit py
+-  >>>exit() /* exit py
 -  ls /*search bin
 -  source ./bin/activate
 -  pip list /* check V. pip (venv)
@@ -30,4 +30,4 @@ README Virtual env
  
 
 ***** if you want uninstall virtualenv
-- [ ] pip3 uninstall virtualenv
+-  pip3 uninstall virtualenv
