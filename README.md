@@ -1,10 +1,10 @@
 # Django-web
 README Virtual env
 
-- [ ] pip3 list       /* check now install Virtual env
-- [ ] python    /* version python
-- [ ] python3 
-- [ ] pip3 install virtualenv  /* install Virtual env
+-  pip3 list       /* check now install Virtual env
+-  python    /* version python
+-  python3 
+-  pip3 install virtualenv  /* install Virtual env
 - [ ] pip3 list       /* check now install Virtual env
 - [ ] pwd  /* print working directory Ann7
 - [ ] mkdir test_djangjo /create folder
@@ -17,7 +17,7 @@ README Virtual env
 - [ ] source ./bin/activate
 - [ ] pip list /* check V. pip (venv)
 - [ ] python /* Ch V. py
-- [ ] pip install django /* if fix version --> pip install django ==2.2
+- [ ] pip install django /* if fix version --> pip install django==2.2
 - [ ] pip list
 - [ ] django-admin startproject firstWeb  /*Creates a Django project directory structure for the given project name 
 - [ ] ls
