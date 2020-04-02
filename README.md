@@ -31,7 +31,7 @@ _____________________________________________________________
 -  django-admin startproject firstWeb // Creates a Django project directory structure for the given project name 
 -  cd firstWeb
 -  python manage.py runserver // if want set port 8080 >> python manage.py runserver 0.0.0.0:8080
--  firstWeb ann7$ deactivate // exit venv
+-  deactivate // exit venv
 -  cd ... // before folder 
  
 ______________________________________________________________
