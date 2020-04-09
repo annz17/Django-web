@@ -4,6 +4,7 @@
 -  cd django-web
 -  cd venv 
 -  source ./bin/activate
+-  cd firstWeb
 -  python manage.py runserver 0.0.0.0:8080
 # URL Website
 http://localhost:8080/
