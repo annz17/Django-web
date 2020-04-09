@@ -2,9 +2,12 @@
 > How to run project
 -  cd ~
 -  cd django-web
--  cd venv
--  cd fweb
+-  cd venv 
 -  source ./bin/activate
+-  python manage.py runserver 0.0.0.0:8080
+# URL Website
+http://localhost:8080/
+
 > if you want exit project
 -  deactivate
 _____________________________________________________________ 
